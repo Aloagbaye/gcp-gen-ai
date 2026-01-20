@@ -1,4 +1,4 @@
-## gcp-gen-ai – Hybrid RAG on GCP with Vertex AI, Vector Search & Neo4j
+## Hybrid RAG on GCP with Vertex AI, Vector Search & Neo4j
 
 This project implements a **hybrid RAG (Retrieval-Augmented Generation)** system on Google Cloud:
 
